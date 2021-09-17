@@ -1,0 +1,44 @@
+.card img {
+  height: 13rem;
+}
+.navbar-brand span {
+  font-size: 2rem;
+  letter-spacing: 0.09em;
+  font-weight: 700;
+  color: blue;
+}
+.navbar-brand img {
+  height: 3rem;
+}
+
+.myline {
+  background-color: blue;
+  margin: auto;
+  width: 20%;
+  border-bottom: 2px solid blue;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.nav-link {
+  font-size: 2rem;
+}
+
+.text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.backToHome {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.mytable>thead>tr>th ,.mytable>tbody>tr>td{
+  padding: 30px;
+
+}
+.price-box{
+  background-color: #edf2f5;
+}
+
