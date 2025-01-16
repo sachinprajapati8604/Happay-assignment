@@ -1,12 +1,14 @@
 .card img {
   height: 13rem;
 }
+
 .navbar-brand span {
   font-size: 2rem;
   letter-spacing: 0.09em;
   font-weight: 700;
   color: blue;
 }
+
 .navbar-brand img {
   height: 3rem;
 }
@@ -19,8 +21,9 @@
   margin-top: 20px;
   margin-bottom: 40px;
 }
+
 .nav-link {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .text {
@@ -34,11 +37,17 @@
   font-weight: 600;
   font-size: 1.5rem;
 }
-.mytable>thead>tr>th ,.mytable>tbody>tr>td{
+
+.mytable>thead>tr>th,
+.mytable>tbody>tr>td {
   padding: 30px;
 
 }
-.price-box{
+
+.price-box {
   background-color: #edf2f5;
 }
 
+.itemname {
+  text-transform: capitalize;
+}

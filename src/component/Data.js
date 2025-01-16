@@ -26,6 +26,7 @@ const data = [
         "name": "happay premium card",
         "description": "Use this card and get benefits on every transaction",
         "final_price": 40,
+        "original_price": 55,
         "img_url": "https://react-coding-assignment.s3.ap-south-1.amazonaws.com/cards/black_card.png"
     }
 ]
